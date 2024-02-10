@@ -10,7 +10,7 @@ git add
 ```
 Добавление коммита:
 ```sh
-git commit -m "Message"
+git commit -m "Message_text"
 ```
 Посмотреть все коммиты:
 ```sh
