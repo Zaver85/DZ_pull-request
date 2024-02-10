@@ -22,5 +22,5 @@ git log --oneline
 ```
 Переключение между коммитами:
 ```sh
-git checkout
+git checkout <branch_name>
 ```
