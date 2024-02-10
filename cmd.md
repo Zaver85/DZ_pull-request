@@ -24,6 +24,3 @@ del <filename>
 ```sh
 rm <filename>
 ```
-## Web ссылки
-
-Текст [пример ссылки](http.youtube.com "YouTube")
