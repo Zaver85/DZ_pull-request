@@ -12,7 +12,10 @@ git add
 ```sh
 git commit -m "Message"
 ```
+Посмотреть все коммиты:
+```sh
 git log
+```
 
 git log --oneline
 
